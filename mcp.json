@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "reich-tools": {
+      "url": "https://mcp.apify.com?tools=shane_reich/name-clearance-verdict,shane_reich/stock-edge-signals"
+    }
+  }
+}
