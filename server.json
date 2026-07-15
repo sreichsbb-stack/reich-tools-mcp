@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sreichsbb-stack/reich-tools",
+  "title": "Reich Tools — Trademark Clearance & Stock Signals",
+  "description": "Brand-name trademark clearance (USPTO + TMview, 70+ IP offices, composite risk grade) and honest BUY/SELL/HOLD stock signals with a public self-graded accuracy ledger. Structured JSON verdicts for AI agents; errors are never charged.",
+  "repository": {
+    "url": "https://github.com/sreichsbb-stack/reich-tools-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com?tools=shane_reich/name-clearance-verdict,shane_reich/stock-edge-signals"
+    }
+  ]
+}
